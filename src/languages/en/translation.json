@@ -1,0 +1,21 @@
+{
+  "welcome_message": "Welcome to BRICS+",
+  "create_message": "Create a new message",
+  "home": "Home",
+  "news": "News",
+  "events_calendar": "Events calendar",
+  "about_project": "About the project",
+  "name": "Name",
+  "message": "Message",
+  "submit": "Submit",
+  "login": "Log in",
+  "become_participant": "Become a project participant",
+  "cabinet": "Cabinet",
+  "article":"Educational media resource for students, undergraduates and graduate students of the BRICS+ countries",
+    "languages": {
+      "ru": "Russian",
+      "en": "English"
+    }
+  
+
+}
