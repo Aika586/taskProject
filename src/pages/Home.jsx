@@ -2,12 +2,12 @@ import NewHeader from "../components/newHeader/NewHeader";
 import { useTranslation } from 'react-i18next';
 
 const Home = () => {
-  const { t } = useTranslation('home');
+  const { t } = useTranslation();
   return (
     <div>
       <NewHeader/>
-      <h1>{t('title')}</h1>
-      <p>{t('description')}</p>
+      <h1>{t('home')}</h1>
+    
     </div>
   );
 };
